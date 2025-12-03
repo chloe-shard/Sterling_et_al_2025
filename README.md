@@ -5,11 +5,12 @@ Overview
 Code supporting the publication: Mechanistic deconvolution reveals DHODH as the key target of the KDM4 inhibitor QC6352, Nature Chemical Biology, 2026.
 Author: Jayden R. Sterling, Jacinda R. Holtsmark, George L. Joun , Karen Tran, Tian Y. Du, Mani Kuchibhotla, Terrance G. Johns, Antoine deWeck, Lipin Loo, G. Gregory Neely, Chloe Shard, Guillermo Gomez, Ashwini Patil, Diana D. Shi, Julie-Aurore Losman, Angus Saxton, Jennifer R. Baker, Zhihe Lei, Matthew Holland, Paul E. Brennan, Mathew Graus, Mathias Francois, Andreas Kraemer, Susanne Mueller, Yuchen Feng, Paul Workman, Lenka Munoz
 
-Chronos_CRISPR_analysis.ipynb uses machine learning to train a model to identify CRISPR gene effects over time.
-Limma_CRIPSR_analysis.ipynb uses linear models and empirical Bayes statistical analysis as a supplementary method for identifying CRISPR gene effects over time. 
-RNA-seq_volcano_plots.ipynb creates volcano plots for RNA-sequencing data.
-GO analysis.ipynb analyses and visualises RNA-sequencing differentially expressed genes.
-
+- Chronos_CRISPR_analysis.ipynb uses machine learning to train a model to identify CRISPR gene effects over time.
+- Limma_CRIPSR_analysis.ipynb uses linear models and empirical Bayes statistical analysis as a supplementary method for identifying CRISPR gene effects over time. 
+- RNA-seq_volcano_plots.ipynb creates volcano plots for RNA-sequencing data.
+- GO analysis.ipynb analyses and visualises RNA-sequencing differentially expressed genes.
+- Bulk_seq_GSC_KDM_heatmap_Rscript creates a heatmap of KDM family expression across GSC from GSE119834 (PMID:30948495).
+- scRNAseq_GBM_malignant_cells_KDM_heatmap_Rscript creates a data matrix of KDM family expression in malignant cells from patient biopsies from 6 scRNAseq datasets.
 
 Requirements
 
