@@ -10,7 +10,7 @@ Author: Jayden R. Sterling, Jacinda R. Holtsmark, George L. Joun , Karen Tran, T
 - RNA-seq_volcano_plots.ipynb creates volcano plots for RNA-sequencing data.
 - GO analysis.ipynb analyses and visualises RNA-sequencing differentially expressed genes.
 - Bulk_seq_GSC_KDM_heatmap_Rscript creates a heatmap of KDM family expression across GSC from GSE119834 (PMID:30948495).
-- scRNAseq_GBM_malignant_cells_KDM_heatmap_Rscript creates a data matrix of KDM family expression in malignant cells from patient biopsies from 6 public scRNAseq datasets: GSE131928, 20 patients, GSE173280, 10 patients, GSE182109, 8 patients, GSE141383, 8 patients, EGAD00001006206, 13 patients and Ebert et al., 2020, 3 patients. scRNAseq data from Ebert et al., 2020 can be requested by contacting G.Gomez (guillermo.gomez@unisa.edu.au)
+- scRNAseq_GBM_malignant_cells_KDM_heatmap_Rscript creates a data matrix of KDM family expression in malignant cells from scRNAseq data. the output data matrix should then be imported into https://software.broadinstitute.org/morpheus/ to create a heatmap. scRNAseq is from patient biopsies from 6 public scRNAseq datasets: GSE131928, 20 patients, GSE173280, 10 patients, GSE182109, 8 patients, GSE141383, 8 patients, EGAD00001006206, 13 patients and Ebert et al., 2020, 3 patients. scRNAseq data from Ebert et al., 2020 can be requested by contacting G.Gomez (guillermo.gomez@unisa.edu.au)
 
 Requirements
 
